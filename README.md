@@ -1,4 +1,4 @@
-# Log4JAssignment
+# Log4J Assignment
 A simple assignment to practise the Log4J library.
 
 System for generating logs, simulating an external trigger. The logger signals the appender, and the appender(s) send the output to STDOUT or a log file. 
